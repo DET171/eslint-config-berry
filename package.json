@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-berry",
+  "version": "0.15.3",
+  "description": "An ESLint preset named berry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DET171"
+  },
+  "keywords": [
+    "eslint-config",
+    "eslint-config-berry",
+    "eslint",
+    "config",
+    "eslint-preset",
+    "eslint-presets"
+  ],
+  "author": "Dusty <mrgeek484@gmail.com>",
+  "license": "MIT"
+}
