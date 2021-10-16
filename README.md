@@ -1,7 +1,10 @@
 ![Code Style](./code-style.svg)
 # eslint-config-berry
 An ESLint preset named berry! <br>
-PS If you feel like it, you can add ![Code Style](./code-style.svg) to your `README`.
+PS If you feel like it, you can add the following to your `README`:
+```md
+![Code Style](https://github.com/DET171/eslint-config-berry/raw/master/code-style.svg)
+```
 
 # Usage:
 First, installed the required packages:
