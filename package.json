@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-berry",
-  "version": "0.15.3",
+  "version": "0.15.4",
   "description": "An ESLint preset named berry",
   "main": "index.js",
   "scripts": {
