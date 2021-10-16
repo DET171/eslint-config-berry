@@ -1,4 +1,5 @@
 ![Code Style](./code-style.svg)
+![npm (tag)](https://img.shields.io/npm/v/eslint-config-berry/latest)
 # eslint-config-berry
 An ESLint preset named berry! <br>
 PS If you feel like it, you can add the following to your `README`:
